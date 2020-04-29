@@ -18,8 +18,6 @@ public class Application {
         System.out.println("PENDING EVENT: " + DisplayMappingSet.lookupDisplayString(PENDING));
         System.out.println("INVALID EVENT: " + DisplayMappingSet.lookupDisplayString(INVALID));
     }
-
-
 }
 
 
